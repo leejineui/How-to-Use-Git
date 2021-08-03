@@ -62,7 +62,7 @@ _This text_ is italic
 
 <!--images-->
 
-![Monster Inc.](https://i.pinimg.com/originals/e3/19/32/e3193224fba5c4467344f4c72abc9f50.jpg)
+![Monster Inc.](https://cdn.mos.cms.futurecdn.net/UNxXVfxEyPtMcYofnfsPW-1024-80.jpg.webp)
 
 <!--Github Markedown-->
 
@@ -96,4 +96,4 @@ function add(num1, num2) {
 
 - [x] Task1
 - [x] Task2
-- [] Task3
+- [ ] Task3
