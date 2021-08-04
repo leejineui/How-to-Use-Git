@@ -9,7 +9,7 @@
 - git push -u --force origin main
 - git pull origin (git fetch origin + git merge origin)
 
-### BRANCHES
+### Branches
 
 1. Heard Branches : current active or checekd out branch
 2. Local & Remote Branches : Mostly working branch
@@ -109,8 +109,9 @@ PS C:\20205-lab\Project> git branch -d develop
 Deleted branch develop (was 12e7e39).
 ```
 
-**Only main branch left after delete the develop branch**
--git branch
+**Only main branch left after deleting the develop branch**
+
+- git branch
 
 ```
 PS C:\20205-lab\Project> git branch
